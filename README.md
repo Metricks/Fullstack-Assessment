@@ -9,7 +9,7 @@ In this assessment, you will be required to demonstrate your understanding on:
 
 # Tech Requirements
 
-1. Develop frontend with ReactJS or NextJS framework (preferably Typescript).
+1. Develop frontend with ReactJS or NextJS framework (preferably Typescript). You can use either styled-components or Tailwind CSS.
 2. Develop APIs with NodeJS using Express and Prisma ORM or TypeORM (preferably Typescript). You can only use PostgreSQL database.
 
 # Deliverables
